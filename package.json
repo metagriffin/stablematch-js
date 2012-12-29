@@ -1,15 +1,15 @@
 {
   "name":           "stablematch",
   "description":    "A pure javascript implementation of the Stable Matching Algorithm.",
-  "version":        "0.0.2",
+  "version":        "0.0.3",
   "main":           "stablematch.js",
   "author":         "metagriffin <mg.npmjs@uberdev.org>",
   "repository": {
     "type": "git",
-    "url":  "git://github.com/metagriffin/stablematch.git"
+    "url":  "git://github.com/metagriffin/stablematch-js.git"
   },
   "bugs": {
-    "url": "https://github.com/metagriffin/stablematch/issues"
+    "url": "https://github.com/metagriffin/stablematch-js/issues"
   },
   "dependencies": {
     "amdefine":      ">=0.0.4",
