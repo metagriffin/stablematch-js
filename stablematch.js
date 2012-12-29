@@ -18,7 +18,7 @@ define(['underscore'], function(_) {
   var exports = {};
 
   // TODO: figure out how to pull this dynamically from package.json...
-  exports.version = '0.0.3';
+  exports.version = '0.0.4';
 
   //---------------------------------------------------------------------------
   exports.match = function(A, B, rankA, rankB) {

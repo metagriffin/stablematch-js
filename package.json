@@ -1,7 +1,7 @@
 {
   "name":           "stablematch",
   "description":    "A pure javascript implementation of the Stable Matching Algorithm.",
-  "version":        "0.0.3",
+  "version":        "0.0.4",
   "main":           "stablematch.js",
   "author":         "metagriffin <mg.npmjs@uberdev.org>",
   "repository": {

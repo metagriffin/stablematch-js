@@ -25,7 +25,7 @@ Here is an example of how to pair up two six-element sets. Note the
 use of [amdefine](https://npmjs.org/package/amdefine), which allows
 ``stablematch`` to be used in any javascript-enabled context.
 
-``
+``` js
 if ( typeof(define) !== 'function' )
   var define = require('amdefine')(module);
 
@@ -75,11 +75,12 @@ define(['stablematch'], function(sma) {
   //   ]
 
 });
-``
+```
+
 Performance and Optimality
 ==========================
 
-The implementation is not intended to be the world's best... it was,
+The implementation is not intended to be the world's best... It was,
 after all, a quick-n-dirty implementation done one Saturday morning
 just so that a basic pairing could be done inside the
 [syncml-js](https://npmjs.org/package/syncml-js) package...
