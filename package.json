@@ -1,0 +1,33 @@
+{
+  "name":           "stablematch",
+  "description":    "A pure javascript implementation of the Stable Matching Algorithm.",
+  "version":        "0.0.1",
+  "main":           "stablematch.js",
+  "author":         "metagriffin <mg.npmjs@uberdev.org>",
+  "repository": {
+    "type": "git",
+    "url":  "git://github.com/metagriffin/stablematch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metagriffin/stablematch/issues"
+  },
+  "dependencies": {
+    "amdefine":      ">=0.0.4",
+    "underscore":    ">=1.4.2"
+  },
+  "devDependencies": {
+    "jasmine-node":  ">=1.0.26"
+  },
+  "keywords": [
+    "stable",
+    "marriage",
+    "match",
+    "matching",
+    "pair",
+    "pairing",
+    "stable marriage",
+    "stable match",
+    "problem",
+    "algorithm"
+  ]
+}

@@ -1,0 +1,2 @@
+tests:
+	jasmine-node --verbose .
