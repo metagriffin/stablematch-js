@@ -4,6 +4,10 @@
   "version":        "0.0.4",
   "main":           "stablematch.js",
   "author":         "metagriffin <mg.npmjs@uberdev.org>",
+  "licenses": [{
+    "type":           "MIT",
+    "url":            "http://opensource.org/licenses/MIT"
+  }],
   "repository": {
     "type": "git",
     "url":  "git://github.com/metagriffin/stablematch-js.git"
